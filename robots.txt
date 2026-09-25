@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kristinademskaya-png.github.io/LAVIANE/sitemap.xml
